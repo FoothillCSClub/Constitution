@@ -24,9 +24,9 @@ which voting takes place.
 ## Article IV. Qualification and Election of Officers
 
 ### Section 4.01
-Officers are President, ICC representative, Vice President, Secretary,
-and Treasurer.  Other positions can and should be created by the
-president to lead subdivisions of the club.
+Officers are President, ICC representative, Vice President, and
+Secretary, Other positions can and should be created by the president to
+lead subdivisions of the club.
 
 ### Section 4.02
 Elections shall be held on the sixth, seventh, or eighth week of the
@@ -61,20 +61,12 @@ held at any other club meeting.
 ### Section 5.03 Vice President
  *  Assume the duties of the president in case of an absence.
  *  Perform duties delegated by the president.
- *  Manage all Vice Presidents, Secretary, and Treasurer.
+ *  Manage all Vice Presidents, and the Secretary.
 
 ### Section 5.04 Secretary
  *  Keep and distribute accurate minutes and agendas of all official
     meetings.
  *  Act as a correspondence clerk.
-
-### Section 5.05 Treasurer
- *  Handle funds and finances for club.
- *  Work as the signatory on club account with the Office of Student
-    Accounts.
- *  Keep financial records and collect dues.
- *  Pay bills and release funds as voted by the general membership.
- *  Make financial reports when called upon to do so.
 
 ## Article VI. Impeachment and Replacement of Officers
 
