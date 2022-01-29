@@ -56,7 +56,7 @@ Elections shall be held on the sixth, seventh, or eighth week of the previous qu
 ### Section 5.03 — Vice President
 - Assume the duties of the president in case of an absence.
 - Perform duties delegated by the president.
-- Manage all Vice Presidents, and the Secretary.
+- Manage the other officer positions in collaboration with the President.
 
 ### Section 5.04 — Secretary
 - Keep and distribute accurate minutes and agendas of club meetings.
