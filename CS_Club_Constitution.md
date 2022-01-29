@@ -39,40 +39,39 @@ Elections shall be held on the sixth, seventh, or eighth week of the previous qu
 ## Article V. Duties of the Officers
 
 ### Section 5.01 — President
- *  Organize and preside over all meetings.
- *  Call special meetings.
- *  Regularly communicate with the faculty/staff advisor of the club.
- *  Carry out the provisions of the constitution.
- *  Oversee all committee activities.
- *  Execute the policies and procedures determined by the group.
- *  Take control of all vacant positions and execute the duties of officers who are unwilling or unable to do so.
+- Organize and preside over all meetings.
+- Call special meetings.
+- Regularly communicate with the faculty/staff advisor of the club.
+- Carry out the provisions of the constitution.
+- Oversee all committee activities.
+- Execute the policies and procedures determined by the group.
+- Take control of all vacant positions and execute the duties of officers who are unwilling or unable to do so.
 
 ### Section 5.02 — ICC Representative
- *  Attend and vote at all ICC meetings.
- *  Prepare and submit all paperwork to ICC.
- *  Report notes from ICC meetings to the club.
- *  Facilitate the maintenance of records of all ICC minutes, announcements, and petitions.
+- Attend and vote at all ICC meetings.
+- Prepare and submit all paperwork to ICC.
+- Report notes from ICC meetings to the club.
+- Facilitate the maintenance of records of all ICC minutes, announcements, and petitions.
 
 ### Section 5.03 — Vice President
- *  Assume the duties of the president in case of an absence.
- *  Perform duties delegated by the president.
- *  Manage all Vice Presidents, and the Secretary.
+- Assume the duties of the president in case of an absence.
+- Perform duties delegated by the president.
+- Manage all Vice Presidents, and the Secretary.
 
 ### Section 5.04 — Secretary
- *  Keep and distribute accurate minutes and agendas of club meetings.
- *  Act as a correspondence clerk.
- *  Manage the yearly budget.
+- Keep and distribute accurate minutes and agendas of club meetings.
+- Act as a correspondence clerk.
+- Manage the yearly budget.
 
 ### Section 5.05 — Marketing Director
- *  Manage outreach and social media accounts for the club.
- *  Create and distribute promotional material for club activities and events.
- *  Regularly give status updates to the club about marketing and outreach.
+- Manage outreach and social media accounts for the club.
+- Create and distribute promotional material for club activities and events.
+- Regularly give status updates to the club about marketing and outreach.
 
 ### Section 5.06 — Event Director
- *  Organize both internal and external events including workshops and guest speakers for the club.
- *  Coordinate with other clubs for hosting events.
- *  Work with the Marketing Director to publicize details of club activities and events.
-
+- Organize both internal and external events including workshops and guest speakers for the club.
+- Coordinate with other clubs for hosting events.
+- Work with the Marketing Director to publicize details of club activities and events.
 
 ## Article VI. Impeachment and Replacement of Officers
 
@@ -98,7 +97,7 @@ An official meeting is when 2/3 of the membership is present and the advisor is 
 Meeting times are called by the president or decided by the general membership. A quorum, a two-thirds majority vote, is needed to carry out any legislation and to hold elections.
 
 ### Section 8.02
-A quorum is a two-thirds majority of the voting members in good standing with current dues paid (if any). A faculty/staff advisor presence is also required.
+A quorum is a two-thirds majority of the voting members in good standing with current dues paid (if any). Faculty/staff advisor presence is also required.
 
 ### Section 8.03
 Club members should be regularly notified of upcoming agenda items and meeting minutes should be promptly distributed afterwards to assist in keeping the official records of the club and to notify the public of upcoming issues.
